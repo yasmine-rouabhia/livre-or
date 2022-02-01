@@ -40,7 +40,7 @@ session_start();
                 Objet participatif qui entretient un rapport physique avec le visiteur, le livre d'or peut devenir un catalyseur<br>
                 entre le lieu, l'oeuvre, l'artiste et le public.
             </p>
-        <a href="">Lien GITHUB</a>
+        <a href="https://github.com/yasmine-rouabhia/livre-or.git">Lien GITHUB</a>
 </main>
 </section>
 <footer classe="foot">
