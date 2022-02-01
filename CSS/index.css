@@ -1,0 +1,110 @@
+/*header*/
+/*{*/
+/*    !*justify-content: center;*!*/
+/*}*/
+
+nav
+{
+    display: flex;
+    padding: 20px;
+    min-width: 100px;
+    justify-content: space-evenly;
+    background-color: #424040;
+    margin: 0;
+}
+
+a
+{
+    background-color: rgba(246, 212, 71, 0.8);
+    border: 2px solid #424040;
+    border-color: #424040;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size:25px;
+    padding: 5px;
+    font-family : 'Dancing Script', cursive ;
+}
+
+a:hover
+{
+    background-color: rgb(66, 64, 64);
+    color: rgba(246, 212, 71, 0.8);
+    border-color: rgba(246, 212, 71, 0.8);
+
+}
+
+li
+{
+    list-style: none;
+}
+
+h3
+{
+    font-size: 55px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Neonderthaw', cursive;
+    text-shadow: 0.1em 0.1em 0.2em rgba(246, 212, 71, 0.8)
+}
+
+h5
+{
+    font-size: xxx-large;
+    font-family: 'Qwigley', cursive;
+}
+
+p
+{
+    display: flex;
+    justify-content: center;
+    text-align: -moz-right;
+    flex-direction: column;
+    font-family: 'Qwitcher Grypen';
+    font-size: 20px;
+}
+
+
+article
+{
+    text-align: center;
+}
+
+body, html
+{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    color: #424040;
+}
+
+main
+{
+    min-height: 100%;
+    position: relative;
+}
+
+.copy
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    align-content: flex-end;
+    color: rgba(246, 212, 71, 0.8);
+}
+
+footer
+{
+    position:relative;
+    width: 100%;
+    background-color: #424040;
+    bottom: 0;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.foot
+{
+    flex: 1;
+}

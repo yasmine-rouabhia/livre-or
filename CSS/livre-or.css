@@ -1,0 +1,39 @@
+.fond4
+{
+    background-color: #ffffff;
+    color: #424040;
+}
+
+.text
+{
+    display: flex;
+    font-family: 'Dancing Script', cursive;
+    width: 100%;
+    height: 100%;
+    justify-content:normal;
+    text-align: left;
+    padding-left: 20px;
+    font-size: x-large;
+}
+
+.parent
+{
+    justify-content: center;
+    display: flex;
+    background-image:url("../images/pages-blanches.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+table
+{
+    text-align: left;
+    width: 50%;
+    height: 300px;
+    padding-top: 25px;
+}
+

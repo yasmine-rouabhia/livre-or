@@ -1,0 +1,33 @@
+.fond3
+{
+    background: #ffffff;
+    color: #424040;
+}
+
+h2
+{
+    font-family: 'Neonderthaw', cursive;
+    text-align: center;
+    padding: 20px;
+}
+
+form
+{
+    width: 400px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(246, 212, 71, 0.8);
+    padding: 50px 35px;
+    font-family: 'Qwigley', cursive;
+}
+
+img
+{
+    width: 50px;
+}
